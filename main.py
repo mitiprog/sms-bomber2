@@ -51,6 +51,7 @@ if __name__ == "__main__":
                 "1": "call",
                 "2": "sms"
             }
+            print(f"{Col.red}[!]{Col.gray} Telegram : @nullhack - @ApkPhoenix ")
             print(f"{Col.yellow}[!]{Col.gray} Proxies are {proxy_state}")
             print(f"{Col.yellow}[!]{Fore.CYAN} Choices: ")
 
