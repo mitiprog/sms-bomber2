@@ -18,13 +18,13 @@
 پروژه را کلون کنید 🔗
 
 ```bash
-  git clone https://github.com/M-logique/Iran-Bomber/
+  git clone https://github.com/mitiprog/sms-bomber2
 ```
 
 به فولدر پروژه بروید 📂
 
 ```bash
-  cd Iran-Bomber
+  cd sms-bomber2
 ```
 
 پکیج ها را نصب کنید 🔻
@@ -40,13 +40,13 @@
 ```
 
 
- [به کمک نیاز دارید؟ 🤔](https://github.com/M-logique/Iran-Bomber/issues)
  
 ## استفاده از پروکسی: 
 در صورتی که تمایل به استفاده از پروکسی دارید میتونید پروکسی های http تهیه کنید و یه فایل به اسم proxies.txt توی فولدر اصلی بسازید
 سورس کد به صورت خودکار ازش استفاده میکنه
 
 ## 👨‍🏭 Authors
+@sudoshark telegram
 
 - [@mohammad87115](https://www.github.com/mohammad87115)
 - [@M.logique](https://www.github.com/M-logique)
