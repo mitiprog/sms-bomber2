@@ -47,8 +47,6 @@
 
 ## 👨‍🏭 Authors
 @sudoshark telegram
-
-- [@mohammad87115](https://www.github.com/mohammad87115)
 - [@M.logique](https://www.github.com/M-logique)
 
 
